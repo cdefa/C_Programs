@@ -18,8 +18,7 @@ I HEREBY CERTIFY THAT THIS WORK IS MINE. CARLOS DE FARIA
 
 int debug = 0;
 
-int
-main(int argc, char **argv)
+int main(int argc, char **argv)
 {
 //instant variables
 	extern char *optarg;
